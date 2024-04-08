@@ -1,4 +1,4 @@
-# Getting Started with Gelato Public Testnets
+# How To #1 on Gelato: Getting Started with Gelato Public Testnets
 
 Welcom to Blueberry, Raspberry and Blackberry, the Gelato public rollups. In this repo we will speed run hands-on how to develop on this chains.
 
