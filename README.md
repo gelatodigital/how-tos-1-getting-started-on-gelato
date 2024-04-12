@@ -2,6 +2,9 @@
 
 Welcom to Blueberry, Raspberry and Blackberry, the Gelato public rollups. In this repo we will speed run hands-on how to develop on this chains.
 
+[![Video Walkthrough](https://img.youtube.com/vi/GwHKuZRZMQs/0.jpg)](https://youtu.be/GwHKuZRZMQs)
+
+
 ## Chains Info
 
 Please go ahead and visit our [Public testnets Page](https://raas.gelato.network/public-testnets)
